@@ -1,4 +1,4 @@
-var sortNumber = function (number) {
+test 3333 vzzzar sortNumber = function (number) {
    number.sort(function (a, b) {
        if (a === b) {
            return 0;
